@@ -262,7 +262,7 @@ for page_num in range(1, 9999):
         
         if weibo_item_json["text"].find("展开全文") != -1:
         
-            specialDate = ['2019-10-1 05:22','2019-9-29 14:21', '2019-9-26 21:20', '2019-9-13 09:41', '2019-9-9 23:12', '2019-9-7 05:20', '2019-8-23 05:35' ]
+            specialDate = ['2019-09-11 05:05','2019-09-29 05:19']
             #特殊处理
             if weibo_item_json["date"] in  specialDate:
                 weibo_item_json["note"] = "注：无法获取本条完整微博"
