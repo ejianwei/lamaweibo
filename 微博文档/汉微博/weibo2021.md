@@ -78,3 +78,22 @@
  ## 2021-02-19 12:08
 做点家务，比如做饭、炒菜、扫地，可以念诵咒语、消除傲慢、锻炼身体。这是一种很好的动中禅。
 <img src="./Image/001VLQwdgy1gnspsgh6plj60m80hu3zm02.jpg" width="400">
+ ## 2021-02-22 17:03
+今天是莲师会供日。祈祷莲师非常重要！
+<img src="./Image/001VLQwdgy1gnwf69wwiij60u0200kjl02.jpg" width="400">
+ ## 2021-02-24 10:51
+谁具有菩提心，谁就会永远爱你。否则，一旦触及到自己的利益，那种“爱”就容易变质。
+<img src="./Image/001VLQwdly1gnyfnfwepvj60dw0ahq3o02.jpg" width="400">
+ ## 2021-02-25 07:26
+如果一天念三遍，一定能开启你的智慧。
+<img src="./Image/001VLQwdgy1gnzfanz7foj60u03o71l102.jpg" width="400">
+ ## 2021-03-07 06:51
+修行，不是靠一位上师的加持就高枕无忧了，而是需要我们自己的勤奋学习。
+如果你想全面了解道次第，应该主要修学《大圆满心性休息》；如果你想对本师释迦牟尼佛生起不退转的信心，那就要认真研读《释迦牟尼佛广传·白莲花论》。
+<img src="./Image/001VLQwdgy1goayime4zuj61400u0djj02.jpg" width="400">
+ ## 2021-03-09 07:58
+如果一生中修完五加行、学完五部大论，再尽量修持大圆满，发愿往生极乐世界，那么死也无憾。
+<img src="./Image/001VLQwdgy1godbpr3m04j60c80csjru02.jpg" width="400">
+ ## 2021-03-09 19:02
+我的寒假作业还没有做完
+<img src="./Image/2018new_kuxiao_org.png" width="400"><img src="./Image/001VLQwdgy1gods3kmc4mj60u0140dir02.jpg" width="400">
