@@ -97,3 +97,10 @@
  ## 2021-03-09 19:02
 我的寒假作业还没有做完
 <img src="./Image/2018new_kuxiao_org.png" width="400"><img src="./Image/001VLQwdgy1gods3kmc4mj60u0140dir02.jpg" width="400">
+ ## 2021-03-16 22:15
+🙏
+<img src="./Image/001VLQwdgy1gom3tw2qozj61400u044a02.jpg" width="400">
+ ## 2021-03-19 09:45
+有福报的人，无论接触什么样的人、修什么样的法、住什么样的地方，不仅适应性很强，还会依此增长善根。对于没有福报的人来说，情况正好相反。
+所以，为了今生和来世的利乐，积累福慧资粮是很重要的。
+<img src="./Image/001VLQwdly1gooyzxngkuj60hs0enmy202.jpg" width="400">
