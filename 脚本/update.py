@@ -44,6 +44,9 @@ else:
     for cookie in cookies:
         x.add_cookie(cookie)
 
+    #留给登录操作时间
+    print ("sleep 60s!")
+    time.sleep(60)
 #更新藏微博
 print("更新藏微博")
 zang_downloader = Downloader(x, 
