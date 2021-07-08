@@ -173,3 +173,14 @@
 “天上天下，唯我独尊，
 虚空有尽，我愿无穷。”
 <img src="./Image/001VLQwdgy1gqneq42ofej60go08ldhc02.jpg" width="400"><img src="./Image/001VLQwdgy1gqneq49qd4j60u01a01ep02.jpg" width="400">
+ ## 2021-05-23 23:31
+ཨོཾ་བཛྲ་ས་ཏྭ་ཧཱུཾ།嗡班杂萨埵吽
+ ## 2021-05-26 16:32
+卫塞节快乐~南无本师释迦牟尼佛，愿佛陀保佑你一切吉祥~ ​​​
+<img src="./Image/001VLQwdgy1gqvwwt8h5bj60m80m8zm802.jpg" width="400">
+ ## 2021-06-05 08:11
+您已经离开我们儿女5年了，ཨོཾ་མ་ཎི་པད་མེ་ཧཱུཾ།嗡玛尼贝美吽~ ​​​
+<img src="./Image/001VLQwdgy1gr72lc788zj61400u0wif02.jpg" width="400"><img src="./Image/001VLQwdgy1gr72lfg4x9j60hs0dcmxz02.jpg" width="400">
+ ## 2021-06-17 06:13
+如果想证悟空性，最好能多念“南无虚空藏菩萨”，或者藏文的“བྱང་ཆུབ་སེམས་དཔའ་སེམས་དཔའ་ཆེན་པོ་ནམ་མཁའི་སྙིང་པོ་ལ་ཕྱག་འཚལ་ལོ་མཆོད་དོ་སྐྱབས་སུ་མཆིའོ།།”（香且森华森华钦波 南m克酿波拉 香擦洛 窍多嘉森且奥）。​​​
+<img src="./Image/001VLQwdgy1grkun4sovej60u0140gwg02.jpg" width="400">
