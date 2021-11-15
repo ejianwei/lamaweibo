@@ -86,7 +86,7 @@ class DocGenerator:
                                 picfile = picDir + str(weibo_image)
                                 imgstr = '<img src="' + picfile + '" width="400">'
                                 fo.write( imgstr)
-                            fo.write("\n")
+                                fo.write("\n")
                 elif 'images' in weibo_item:
                     #遍历图片
                     for weibo_image in weibo_item['images']:
@@ -94,7 +94,7 @@ class DocGenerator:
 
                         imgstr = '<img src="' + picfile + '" width="400">'
                         fo.write( imgstr)
-                    fo.write("\n")
+                        fo.write("\n")
             # 关闭打开的文件
             fo.close()
 
